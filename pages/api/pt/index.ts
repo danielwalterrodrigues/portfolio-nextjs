@@ -45,7 +45,7 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent2: '',
                     description: 'Vyttra Proxima é um completo aplicativo para controle da diabetes. Acompanha o dia a dia do paciente, desde os vários registros diários de glicemia e consumo de carboidratos, até o acompanhamento para tomada de medicamentos, registros de metas glicêmicas, incluindo geração automática de relatórios médicos e afins. Um aplicatido excepcionalmente completo e complexo para o controle da diabetes',
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttra_logo.png?alt=media&token=d1d12a0b-d054-4361-8422-02156c268152',
-                    numImages: 3,
+                    numImages: 4,
                     gallery: [
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttraCapa.png?alt=media&token=3f5b3dae-afef-408a-a402-8849c5d8533c'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttra1.png?alt=media&token=b45c287d-bb23-4988-a4e4-5a5a959274f5'},
