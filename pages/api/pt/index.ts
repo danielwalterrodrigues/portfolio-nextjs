@@ -102,8 +102,9 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent2: '',
                     description: 'A OGMA é o braço logistico da Embraer em Portugal e seu sistema de rastreamento de cargas terrestres é o OKTO. Junto à Agência TRIA SOFTWARE, realizei melhorias no aplicativo, tais como recolhimento da assinatura do recebedor, criação de situação de não-conformidade na entrega, leitura de código de barras do ponto de entrega, entre outras.',
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/ogma_logo.png?alt=media&token=a88d44d6-bdcb-48d5-aba4-1dd3ef775cff',
-                    numImages: 3,
+                    numImages: 4,
                     gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/ogma0.png?alt=media&token=4ea9d206-1e62-4492-98c5-4f079135bc05'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/ogma1.png?alt=media&token=4295f269-43d2-4e47-bf35-5e48190ab460'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/ogma2.png?alt=media&token=4f822d6c-71a7-4546-997f-cc366e90dc30'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/ogma3.png?alt=media&token=8e2dad2b-4ccb-4815-84e2-0a4944291eb2'}
