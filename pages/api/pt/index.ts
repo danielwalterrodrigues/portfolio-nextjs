@@ -128,7 +128,7 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent: 'Loja desenvolvida em Magento. Aplicação de layout baseado em template, funcionalidades backend e frontend',
                     backContent2: '',
                     description: 'N4Natural é uma loja virtual Magento. Atendo a este cliente há mais de 2 anos. Trata-se de uma loja de suplementos e alimentos naturais na qual, além da relação profissional, eu acredito muito. Foi desenvolvida a nova identidade visual da empresa, aplicado o layout ao Front End do Magento, além do desenvolvimento de uma ferramenta de back-end para a gestão do conteúdo da Home do site.',
-                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4natural_logo.png?alt=media&token=15eef04a-7950-4f8a-9264-b3fac6c5548f',
+                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4natural_logo.png?alt=media&token=b876296c-a71b-48fe-91dc-617c5b677f94',
                     numImages: 4,
                     gallery: [
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4naturalCapa.png?alt=media&token=cebeaab4-2f1c-47c4-a680-16448bbf0b60'},
