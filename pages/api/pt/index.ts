@@ -47,6 +47,7 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttra_logo.png?alt=media&token=d1d12a0b-d054-4361-8422-02156c268152',
                     numImages: 3,
                     gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttraCapa.png?alt=media&token=3f5b3dae-afef-408a-a402-8849c5d8533c'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttra1.png?alt=media&token=b45c287d-bb23-4988-a4e4-5a5a959274f5'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttra2.png?alt=media&token=22069dd0-5f1e-41c6-85de-3f12102a9d08'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/vyttra3.png?alt=media&token=f965b820-21c5-4e16-883e-45d08b22c9de'}
@@ -74,8 +75,9 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent2: '',
                     description: '4Real é um app em desenvolvimento para o mercado norte-americano. Trata-se de um aplicativo para venda de infoprodutos relacionados a cupons promocionais de sorteio. Realizei todo o trabalho de criação da identidade visual, design UX e atualmente desenvolvo, juntamente à equipe local, todo o front-end.',
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/4real_logo.png?alt=media&token=921e99c3-d83b-4880-9a5c-df511bba89c2',
-                    numImages: 3,
+                    numImages: 4,
                     gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/4realCapa.png?alt=media&token=af013506-bbb7-44c6-a9a3-a62c337b9a9c'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/4real1.png?alt=media&token=d3ada04f-d870-4db2-a36e-acf036e0aac3'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/4real2.png?alt=media&token=74309c5c-425c-4f7e-9ed5-afb42331be34'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/4real3.png?alt=media&token=ddb4dd12-07bb-448c-b618-ee191d0597f8'}
@@ -127,8 +129,9 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent2: '',
                     description: 'N4Natural é uma loja virtual Magento. Atendo a este cliente há mais de 2 anos. Trata-se de uma loja de suplementos e alimentos naturais na qual, além da relação profissional, eu acredito muito. Foi desenvolvida a nova identidade visual da empresa, aplicado o layout ao Front End do Magento, além do desenvolvimento de uma ferramenta de back-end para a gestão do conteúdo da Home do site.',
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4natural_logo.png?alt=media&token=15eef04a-7950-4f8a-9264-b3fac6c5548f',
-                    numImages: 3,
+                    numImages: 4,
                     gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4naturalCapa.png?alt=media&token=cebeaab4-2f1c-47c4-a680-16448bbf0b60'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4natural1.png?alt=media&token=1e0be575-a367-474c-9549-1b0cc823d03f'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4natural2.png?alt=media&token=13387bcd-8dde-46be-8d58-f5c0c96cb117'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/n4natural3.png?alt=media&token=08949d58-e51a-484a-95d5-663ce87dd68b'}
@@ -151,8 +154,9 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent2: '',
                     description: '"Quem Tem Remédio?" é um projeto particular, que faz parte de um movimento de gratidão que levarei até o fim comigo. Transplantados e pessoas com doenças graves são submetidos a medicamentos caríssimos e por períodos longos, quando não vitalícios. Estes medicamentos são distribuídos gratuitamente pelo Governo. Porém, a distribuição é falha, e com isso os próprios doentes acabam criando redes de auxílio na doação e intercâmbio destes remédios. Este app centraliza quem tem remédio e quem precisa de medicamento, fomentando essa troca.',
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr_logo.png?alt=media&token=01ed3923-898e-4be0-b230-2be9e7f04aa1',
-                    numImages: 3,
+                    numImages: 4,
                     gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtrCapa.png?alt=media&token=e25f1e15-cefc-4170-a119-37fdc2273033'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr1.png?alt=media&token=e74d0ece-35f2-4ce0-ac82-ecbafde650b6'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr2.png?alt=media&token=b031cb90-144b-4013-9d19-c5cc531cb9c7'},
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr3.png?alt=media&token=37b24848-c8b5-4ba7-ad09-262fa8d34303'}
