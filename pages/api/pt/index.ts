@@ -180,7 +180,7 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent: 'Aplicativo operacional industrial',
                     backContent2: '',
                     description: 'Desenvolvido para automação industrial, o aplicativo PCount foi criado para iniciar e finalizar processos em maquinários de chão de fábrica, utilizando leitura de QRCODE e recolhimento de assinatura como tecnologias',
-                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr_logo.png?alt=media&token=01ed3923-898e-4be0-b230-2be9e7f04aa1',
+                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount_logo.png?alt=media&token=5bc6e703-1445-4f4d-b851-dc6d9ba2f72f',
                     numImages: 4,
                     gallery: [
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcountCapa.png?alt=media&token=0f83384b-6e18-4a5e-adf3-b63bffc2bdec'},
