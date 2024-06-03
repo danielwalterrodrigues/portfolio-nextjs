@@ -173,6 +173,32 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                         {tag: 'REST API'},
                         {tag: 'Adobe Photoshop'}
                     ]
+                },
+                pcount: {
+                    title: 'pcount', 
+                    subTitle: 'android app',
+                    backContent: 'Aplicativo operacional industrial',
+                    backContent2: '',
+                    description: 'Desenvolvido para automação industrial, o aplicativo PCount foi criado para iniciar e finalizar processos em maquinários de chão de fábrica, utilizando leitura de QRCODE e recolhimento de assinatura como tecnologias',
+                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr_logo.png?alt=media&token=01ed3923-898e-4be0-b230-2be9e7f04aa1',
+                    numImages: 4,
+                    gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount.png?alt=media&token=dc934ffe-6ebb-42cd-98e1-531bfb8a68af'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount2.png?alt=media&token=f4a137c2-f0f8-48e1-999d-bbacdcda3520'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount3.png?alt=media&token=b494d198-ec3e-487a-aa5d-b48b806bcda4'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/qtr3.png?alt=media&token=37b24848-c8b5-4ba7-ad09-262fa8d34303'}
+                        ],
+                    tags: [
+                        {tag: 'react-native'},
+                        {tag: 'axios'},
+                        {tag: 'design'},
+                        {tag: 'UX/UI'},
+                        {tag: 'QRCode'},
+                        {tag: 'Android'},
+                        {tag: 'Signature capture'},
+                        {tag: 'REST API'},
+                        {tag: 'Adobe Photoshop'}
+                    ]
                 }
             }
         )
