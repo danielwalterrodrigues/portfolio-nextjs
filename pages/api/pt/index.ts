@@ -207,12 +207,14 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent2: '',
                     description: 'O GliControl é um aplicativo simples para registros médicos distribuído gratuitamente na Play Storre, permitindo ao usuário criar momentos ao longo do dia nos quais deseja fazer registros glicêmicos, e armazenar os valores diários de seus registros.',
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FlogoGliControl.png?alt=media&token=4d8367ce-289d-48d3-8615-9847acfdde9b',
-                    numImages: 4,
+                    numImages: 6,
                     gallery: [
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449750.png?alt=media&token=d3f2bab5-6fd2-412c-8053-bcd90efb4833'},
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449867.png?alt=media&token=20be316b-d5d6-4552-b584-c3d153836d36'},
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449846.png?alt=media&token=dced62fb-ff1e-430d-b85f-f0d36885c4c1'},
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449859.png?alt=media&token=c9206aec-2dde-44b5-b070-dcc473527dcd'}
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1718225478.png?alt=media&token=26425289-9b6a-4a1f-ac3a-20d222a6de85'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1718225448.png?alt=media&token=7d9e7ebf-c26d-4b52-96fc-0c4f4b85d37e'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449784.png?alt=media&token=1457ee0b-7aea-4313-a85f-3e0141c4af39'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1718225538.png?alt=media&token=b1d85faa-fbaa-4a58-9887-daf7039f17a0'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1718225565.png?alt=media&token=4ff4c5b5-0012-44c6-a42f-df20c8e84cdb'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1718225572.png?alt=media&token=1c651b71-cb5c-4b2d-a495-add86dabebc5'}
                         ],
                     tags: [
                         {tag: 'react-native'},
@@ -220,6 +222,7 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                         {tag: 'design'},
                         {tag: 'UX/UI'},
                         {tag: 'Android'},
+                        {tag: 'Expo'},
                         {tag: 'Logotipia'},
                         {tag: 'Design'},
                         {tag: 'Idealização'},
