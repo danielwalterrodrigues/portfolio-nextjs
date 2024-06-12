@@ -206,7 +206,7 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     backContent: 'Aplicativo para registro de glicemia',
                     backContent2: '',
                     description: 'O GliControl é um aplicativo simples para registros médicos distribuído gratuitamente na Play Storre, permitindo ao usuário criar momentos ao longo do dia nos quais deseja fazer registros glicêmicos, e armazenar os valores diários de seus registros.',
-                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount_logo.png?alt=media&token=5bc6e703-1445-4f4d-b851-dc6d9ba2f72f',
+                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FlogoGliControl.png?alt=media&token=cae48e41-66f1-4da9-a81d-1d25347dbf87',
                     numImages: 4,
                     gallery: [
                             {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcountCapa.png?alt=media&token=0f83384b-6e18-4a5e-adf3-b63bffc2bdec'},
@@ -220,6 +220,9 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                         {tag: 'design'},
                         {tag: 'UX/UI'},
                         {tag: 'Android'},
+                        {tag: 'Logotipia'},
+                        {tag: 'Design'},
+                        {tag: 'Idealização'},
                         {tag: 'Adobe Photoshop'}
                     ]
                 }
