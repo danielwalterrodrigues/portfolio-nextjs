@@ -199,6 +199,29 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                         {tag: 'REST API'},
                         {tag: 'Adobe Photoshop'}
                     ]
+                },
+                gliControl: {
+                    title: 'gliControl', 
+                    subTitle: 'android app',
+                    backContent: 'Aplicativo para registro de glicemia',
+                    backContent2: '',
+                    description: 'O GliControl é um aplicativo simples para registros médicos distribuído gratuitamente na Play Storre, permitindo ao usuário criar momentos ao longo do dia nos quais deseja fazer registros glicêmicos, e armazenar os valores diários de seus registros.',
+                    logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount_logo.png?alt=media&token=5bc6e703-1445-4f4d-b851-dc6d9ba2f72f',
+                    numImages: 4,
+                    gallery: [
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcountCapa.png?alt=media&token=0f83384b-6e18-4a5e-adf3-b63bffc2bdec'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount.png?alt=media&token=dc934ffe-6ebb-42cd-98e1-531bfb8a68af'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount2.png?alt=media&token=f4a137c2-f0f8-48e1-999d-bbacdcda3520'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount3.png?alt=media&token=b494d198-ec3e-487a-aa5d-b48b806bcda4'}
+                        ],
+                    tags: [
+                        {tag: 'react-native'},
+                        {tag: 'Context API'},
+                        {tag: 'design'},
+                        {tag: 'UX/UI'},
+                        {tag: 'Android'},
+                        {tag: 'Adobe Photoshop'}
+                    ]
                 }
             }
         )
