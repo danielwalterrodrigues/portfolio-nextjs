@@ -209,10 +209,10 @@ const handler = (_req: NextApiRequest, res: NextApiResponse) => {
                     logo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FlogoGliControl.png?alt=media&token=4d8367ce-289d-48d3-8615-9847acfdde9b',
                     numImages: 4,
                     gallery: [
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcountCapa.png?alt=media&token=0f83384b-6e18-4a5e-adf3-b63bffc2bdec'},
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount.png?alt=media&token=dc934ffe-6ebb-42cd-98e1-531bfb8a68af'},
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount2.png?alt=media&token=f4a137c2-f0f8-48e1-999d-bbacdcda3520'},
-                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/pcount3.png?alt=media&token=b494d198-ec3e-487a-aa5d-b48b806bcda4'}
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449750.png?alt=media&token=d3f2bab5-6fd2-412c-8053-bcd90efb4833'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449867.png?alt=media&token=20be316b-d5d6-4552-b584-c3d153836d36'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449846.png?alt=media&token=dced62fb-ff1e-430d-b85f-f0d36885c4c1'},
+                            {img: 'https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-rodrigues.appspot.com/o/gliControl%2FScreenshot_1717449859.png?alt=media&token=c9206aec-2dde-44b5-b070-dcc473527dcd'}
                         ],
                     tags: [
                         {tag: 'react-native'},
